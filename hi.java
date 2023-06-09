@@ -1,6 +1,6 @@
-public class example
+public class exam
 {
-	public static void main (String []args)
+	public static void main (String [] args)
 	{
 		System.out.println("welcome the to gitbash");
 	}
